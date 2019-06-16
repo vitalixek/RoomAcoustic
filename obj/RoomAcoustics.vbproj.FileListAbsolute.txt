@@ -1,0 +1,2 @@
+F:\1GA61_VB2005\obj\Debug\RoomAcoustics.exe
+F:\1GA61_VB2005\obj\Debug\RoomAcoustics.pdb

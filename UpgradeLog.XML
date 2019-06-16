@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RoomAcoustics">
+</Property><Property Name="Solution File" Value="F:\1GA61_VB2008\RoomAcoustics.sln">
+</Property><Property Name="Date" Value="Tuesday, July 10, 2012">
+</Property><Property Name="Time" Value="16:55 PM">
+</Property></Properties><Event ErrorLevel="0" Project="RoomAcoustics" Source="RoomAcoustics.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RoomAcoustics" Source="RoomAcoustics.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="RoomAcoustics.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="RoomAcoustics.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RoomAcoustics" Source="RoomAcoustics.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
